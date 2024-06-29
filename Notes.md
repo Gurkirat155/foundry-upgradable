@@ -1,0 +1,1 @@
+We don't have constructor in implementation address, so we use "initializer" function inside  the implementation contracct and so proxy contract instead of calling a construtor we call a "initializer" function on implmentation contract 
